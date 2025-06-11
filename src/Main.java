@@ -70,9 +70,10 @@ public class Main {
         System.out.println("========================================");
         System.out.println("🌟 SISTEMA DE RESEÑAS DE MANGA 🌟");
         System.out.println("========================================");
-        System.out.println("Autor: Pérez, Juan");
-        System.out.println("Carrera: Programación I - 1er Año");
-        System.out.println("Comisión: 12345");
+        System.out.println("Autor: Ramiro Sebastian Gaspar");
+        System.out.println("Carrera: Licenciatura en Ciencia de Datos");
+        System.out.println("Materia: Programación 1");
+        System.out.println("Trabajo Final");
         System.out.println("\nEste sistema permite:");
         System.out.println("- Registrar nuevos mangas");
         System.out.println("- Crear reseñas con puntuación de historia y dibujo");
