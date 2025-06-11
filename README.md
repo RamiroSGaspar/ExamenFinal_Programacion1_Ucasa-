@@ -1,9 +1,13 @@
 # 🎌 Sistema de Reseñas de Manga - Programación I
 > Plataforma para reseñar mangas con evaluación dual de historia y dibujo
-> Universidad Catolica de Salta
-> Autor: Ramiro Sebastian Gaspar
-> Carrera: Lic. En Ciencia de Datos
-> Materia: Programacion 1
+
+> Universidad Catolica de Salta -
+
+> Autor: Ramiro Sebastian Gaspar -
+
+> Carrera: Lic. En Ciencia de Datos -
+
+> Materia: Programacion 1 -
 
 ## 📖 Descripción
 
