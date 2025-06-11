@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
+
 public class Main {
     private static final int MAX_MANGAS = 10;
     private static final int MAX_RESEÑAS = 50;

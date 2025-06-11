@@ -1,4 +1,5 @@
 public class Manga {
+
     private String titulo;
     private String autor;
     private String genero;

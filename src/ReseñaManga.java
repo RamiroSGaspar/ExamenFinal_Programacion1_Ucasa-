@@ -1,4 +1,5 @@
 public class ReseñaManga extends Reseña {
+
     private Manga manga;
 
     public ReseñaManga(Manga manga, int puntuacionHistoria, int puntuacionDibujo, String comentario) {

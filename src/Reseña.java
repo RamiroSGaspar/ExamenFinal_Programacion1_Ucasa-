@@ -1,4 +1,5 @@
 public class Reseña {
+
     private int puntuacionHistoria;
     private int puntuacionDibujo;
     private String comentario;
